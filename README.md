@@ -4,8 +4,11 @@
 
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/luizscolari/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/luizscolari/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=1000" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://luizscolari.github.io/">
+    <img src="https://img.shields.io/badge/MyWebsite-darkgreen?style=for-the-badge&logo=verce&logoColor=white&labelWidth=100" alt="Portifolio Badge"/>
   </a>
 </div>
 
@@ -32,7 +35,7 @@ I am a mobile tester and backend developer<img src="https://media.giphy.com/medi
 
 - :zap: I’m currently studying and applying Combinatorial Mathematics in Cryptography while producing articles on the subject.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizscolari/)
 
 ---
 
