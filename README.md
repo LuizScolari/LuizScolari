@@ -35,8 +35,6 @@ I am a mobile tester and backend developer<img src="https://media.giphy.com/medi
 
 - :zap: I’m currently studying and applying Combinatorial Mathematics in Cryptography while producing articles on the subject.
 
-- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizscolari/)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
