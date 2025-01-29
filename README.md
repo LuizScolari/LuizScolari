@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-I am a mobile tester and backend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a mobile tester and back-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
 - :telescope: I’m working as a Mobile Tester at [Laboratório Bridge](https://portal.bridge.ufsc.br).
 
