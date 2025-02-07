@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/luizscolari/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=1000" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://luizscolari.github.io/">
-    <img src="https://img.shields.io/badge/MyWebsite-darkgreen?style=for-the-badge&logo=verce&logoColor=white&labelWidth=100" alt="Portifolio Badge"/>
-  </a>
 </div>
 
 
