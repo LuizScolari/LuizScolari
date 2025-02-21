@@ -1,36 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+##  Hi there, my name is Luiz! 👋
 
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/luizscolari/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=1000" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
 
 ### :man_technologist: About Me :
 
-I am a mobile tester and back-end developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a mobile tester and back-end developer from Brazil.
 
 - :telescope: I’m working as a Mobile Tester at [Laboratório Bridge](https://portal.bridge.ufsc.br).
 
 - :seedling: I’m a Computer Science student at [UFSC](https://cco.ufsc.br/sobre-o-curso/).
 
 - :zap: I’m currently studying and applying Combinatorial Mathematics in Cryptography while producing articles on the subject.
+
+- :mailbox: How to reach me: [LinkedIn](https://www.linkedin.com/in/luizscolari/)
 
 ---
 
