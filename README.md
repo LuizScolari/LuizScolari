@@ -10,7 +10,7 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 
 ---
 
-### Stats & Infos:
+### Stats & Infos
 <table>
 <tr>
 <td valign="top">
