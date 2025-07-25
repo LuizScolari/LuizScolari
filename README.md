@@ -5,7 +5,7 @@
 
 ### About Me
 <p align="justify">
-I am a Computer Science student at the Federal University of Santa Catarina (UFSC), currently in my fourth semester. I am engaged in a research project in Combinatorial Mathematics with applications in Cryptography, which has allowed me to deepen my understanding of cryptographic foundations. Throughout my academic journey, I've contributed to diverse projects across multiple laboratories, specializing in full-stack and mobile development. My interests include cryptography, applied mathematics in computing, algorithms, and system development. I am focused, driven, and committed to continuously learning and creating innovative and impactful solutions.
+I am a Computer Science student at the Federal University of Santa Catarina (UFSC), currently in my fourth semester. I am actively involved in various academic and professional activities, including research focused on cryptography. Throughout my academic journey, I have participated in collaborative projects across different laboratories, working on full-stack and mobile development. I am focused, motivated, and committed to continuous learning and to creating innovative and impactful solutions.
 </p>
 
 ---
@@ -17,13 +17,18 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 
 - **Computer Science student** at [UFSC](https://cco.ufsc.br/sobre-o-curso/)  
   **Interests:** Cryptography, algorithms, mathematics, combinatorics, and graph theory  
-  Fourth semester of my undergraduate program
+  Currently in the fourth semester of the undergraduate program
 
-- **Research Focus:** Academic research on combinatorial mathematics applications in cryptography
+- **Research Focus:** Academic research in the field of combinatorial mathematics applied to cryptography
 
-- **Study Focus:** Exploring asymmetric digital signature schemes and cryptographic protocols
+- **Study Focus:** Asymmetric digital signature schemes and cryptographic protocols
 
-- **Tech Stack:** Primarily working with Java and C++ for academic and research projects
+- **Tech Stack:** Mainly Java and C++ for academic and research purposes
+
+- **Experience:**  
+  - Experience in multiple programming languages, including Java, C++, Go, and Python  
+  - Worked on full-stack web projects using HTML, CSS, and JavaScript  
+  - Worked as a tester for mobile applications developed by the Brazilian government; I also have experience with Flutter.
 
 </td>
 <td>
