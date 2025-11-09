@@ -13,7 +13,7 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 ### Stats & Infos
 
 - **Computer Science student** at [UFSC](https://cco.ufsc.br/sobre-o-curso/) <br>
-  **Interests:** Cryptography, algorithms, Generative AI, combinatorics, and graph theory <br>
+  **Interests:** Cryptography, Algorithms, Generative AI, Combinatorics, and Graph Theory. <br>
   **Study Focus:** Combinatorial problems, their applications, and algorithmic approaches.
 
 - **Tech Stack:** Java, Go, C, C++, Python, Generative AI (LLMs, RAG), Docker, Git, MySQL, PostgreSQL.
