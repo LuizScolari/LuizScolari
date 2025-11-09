@@ -22,7 +22,7 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 - #### Projects  
   **CFF Research (Poster):** Presented *"Embedding Cover-Free Families (CFFs): Implementation and Applications in Cryptography"* at Fq16.  
   **GenAI Food Recommender:** Developed an AI assistant using RAG architecture (Python, Streamlit, Gemini).  
-  **Web Platform for CLAA (UFSC):** Designed a platform to automate committee report generation.  
+  **Web Platform for CLAA (UFSC):** Developed a platform to automate committee report generation.  
 
 - #### Experience  
   **Academic Research:** Focused on combinatorics and cryptographic applications.  
