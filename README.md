@@ -13,21 +13,21 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 ### Stats & Infos
 
 - #### Computer Science student at [UFSC](https://cco.ufsc.br/sobre-o-curso/) <br>
-  **Interests:** Cryptography, Algorithms, Generative AI, Combinatorics, and Graph Theory. <br>
-  **Study Focus:** Combinatorial problems, their applications, and algorithmic approaches.
+  - **Interests:** Cryptography, Algorithms, Generative AI, Combinatorics, and Graph Theory. <br>
+  - **Study Focus:** Combinatorial problems, their applications, and algorithmic approaches.
 
 - #### Tech Stack:
-  Java, Go, C, C++, Python, Generative AI (LLMs, RAG), Docker, Git, MySQL, PostgreSQL.
+  - Java, Go, C, C++, Python, Generative AI (LLMs, RAG), Docker, Git, MySQL, PostgreSQL.
 
 - #### Projects: <br>
-  **CFF Research (Poster):** Presented the poster "Embedding Cover-Free Families (CFFs): Implementation and Applications in Cryptography" at the Fq16 conference. <br>
-  **GenAI Food Recommender:** Engineered a conversational AI assistant using a RAG architecture (Python, Streamlit, Google Gemini LLM). <br>
-  **Web Platform for CLAA (UFSC):** Developed a web platform to automate the generation of committee reports. <br>
+  - **CFF Research (Poster):** Presented the poster "Embedding Cover-Free Families (CFFs): Implementation and Applications in Cryptography" at the Fq16 conference. <br>
+  - **GenAI Food Recommender:** Engineered a conversational AI assistant using a RAG architecture (Python, Streamlit, Google Gemini LLM). <br>
+  - **Web Platform for CLAA (UFSC):** Developed a web platform to automate the generation of committee reports. <br>
 
 - #### Experience: <br>
-  **Academic Research:** Actively involved in research in the area of Computer Science, focusing on combinatorics and cryptographic applications.<br>
-  **PET Computação UFSC:** Participated in software development (HTML, CSS, JavaScript, Python) and organization of academic events.<br>
-  **Laboratório Bridge (QA):** Worked as a Quality Assurance professional on the E-SUS Mobile Project, planning test cases and executing manual and automated test suites.<br>
+  - **Academic Research:** Actively involved in research in the area of Computer Science, focusing on combinatorics and cryptographic applications.<br>
+  - **PET Computação UFSC:** Participated in software development (HTML, CSS, JavaScript, Python) and organization of academic events.<br>
+  - **Laboratório Bridge (QA):** Worked as a Quality Assurance professional on the E-SUS Mobile Project, planning test cases and executing manual and automated test suites.<br>
 
 <br>
 
