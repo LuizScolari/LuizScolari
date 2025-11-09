@@ -11,32 +11,26 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 ---
 
 ### Stats & Infos
-<table>
-<tr>
-<td valign="top">
 
-- **Computer Science student** at [UFSC](https://cco.ufsc.br/sobre-o-curso/)  
-  **Interests:** Cryptography, algorithms, mathematics, combinatorics, and graph theory  
-  Currently in the fourth semester of the undergraduate program
+- **Computer Science student** at [UFSC](https://cco.ufsc.br/sobre-o-curso/) <br>
+  **Interests:** Cryptography, algorithms, Generative AI, combinatorics, and graph theory <br>
+  **Study Focus:** Combinatorial problems, their applications, and algorithmic approaches.
 
-- **Research Focus:** Academic research in the field of combinatorial mathematics applied to cryptography
+- **Tech Stack:** Java, Go, C, C++, Python, Generative AI (LLMs, RAG), Docker, Git, MySQL, PostgreSQL.
 
-- **Study Focus:** Asymmetric digital signature schemes and cryptographic protocols
+- **Projects:** <br>
+  **CFF Research (Poster):** Presented the poster "Embedding Cover-Free Families (CFFs): Implementation and Applications in Cryptography" at the Fq16 conference. <br>
+  **GenAI Food Recommender:** Engineered a conversational AI assistant using a RAG architecture (Python, Streamlit, Google Gemini LLM). <br>
+  **Web Platform for CLAA (UFSC):** Developed a web platform to automate the generation of committee reports. <br>
 
-- **Tech Stack:** Mainly Java and C++ for academic and research purposes
+- **Experience:** <br>
+  **Academic Research:** Actively involved in research in the area of Computer Science, focusing on combinatorics and cryptographic applications.<br>
+  **PET Computação UFSC:** Participated in software development (HTML, CSS, JavaScript, Python) and organization of academic events.<br>
+  **Laboratório Bridge (QA):** Worked as a Quality Assurance professional on the E-SUS Mobile Project, planning test cases and executing manual and automated test suites.<br>
 
-- **Experience:**  
-  - Experience in multiple programming languages, including Java, C++, Go, and Python  
-  - Worked on full-stack web projects using HTML, CSS, and JavaScript  
-  - Worked as a tester for mobile applications developed by the Brazilian government; I also have experience with Flutter.
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizScolari&layout=compact&theme=holi" width="300px"/>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=LuizScolari&show_icons=true&theme=holi" width="300px"/>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizScolari&layout=compact&theme=holi" width="228px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizScolari&show_icons=true&theme=holi" width="300px"/>
+</p>
