@@ -28,10 +28,3 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
   **Academic Research:** Focused on combinatorics and cryptographic applications.  
   **PET Computação UFSC:** Involved in software development and organization of academic events.  
   **Laboratório Bridge (QA):** Contributed to the Brazilian E-SUS Mobile Project through test planning and automation.
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizScolari&layout=compact&theme=holi" width="228px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizScolari&show_icons=true&theme=holi" width="300px"/>
-</p>
