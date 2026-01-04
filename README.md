@@ -13,18 +13,11 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
 ### Stats & Infos
 
 - #### Computer Science student at [UFSC](https://cco.ufsc.br/sobre-o-curso/)  
-  **Interests:** Cryptography, Algorithms, Generative AI, Combinatorics, and Graph Theory.  
+  **Interests:** Cryptography, Combinatorics, Combinatorial Designs, Algorithm, and Graph Theory.  
   **Study Focus:** Combinatorial problems, their applications, and algorithmic approaches.
 
 - #### Tech Stack:  
-  Java, Go, C, C++, Python, Generative AI (LLMs, RAG), Docker, Git, MySQL, PostgreSQL.
+  Java, Go, C, C++, Python, Docker, Git, MySQL, PostgreSQL.
 
-- #### Projects:  
-  **CFF Research (Poster):** Presented *"Embedding Cover-Free Families (CFFs): Implementation and Applications in Cryptography"* at Fq16.  
-  **GenAI Food Recommender:** Developed an AI assistant using RAG architecture (Python, Streamlit, Gemini).  
-  **Web Platform for CLAA (UFSC):** Developed a platform to automate committee report generation.  
-
-- #### Experience:
-  **Academic Research:** Focused on combinatorics and cryptographic applications.  
-  **PET Computação UFSC:** Involved in software development and organization of academic events.  
-  **Laboratório Bridge (QA):** Contributed to the Brazilian E-SUS Mobile Project through test planning and automation.
+<br>
+See my website to read about my experiences, projects, publications and presentations: https://luizscolari.github.io
