@@ -17,7 +17,7 @@ I am a Computer Science student at the Federal University of Santa Catarina (UFS
   **Study Focus:** Combinatorial problems, their applications, and algorithmic approaches.
 
 - #### Tech Stack:  
-  Java, Go, C, C++, Python, Docker, Git, MySQL, PostgreSQL.
+  Java, C, Python, FLINT, OpenMP, Bouncy Castle, OpenSSL, Docker, MySQL, PostgreSQL, Git
 
 <br>
 See my website to read about my experiences, projects, publications and presentations: https://luizscolari.github.io
